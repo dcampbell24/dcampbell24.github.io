@@ -12,6 +12,6 @@ additional-css = ["custom.css"]
 cname="dlc.name"
 
 [build]
-build-dir = "public"
+build-dir = "book"
 
 [preprocessor.djot]
