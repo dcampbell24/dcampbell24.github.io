@@ -7,7 +7,11 @@ src = "src"
 title = "David Lawrence Campbell"
 
 [output.html]
-git-repository-url = "https://github.com/dcampbell24/dlc-name"
+git-repository-url = "https://github.com/dcampbell24/dcampbell24.github.io"
 additional-css = ["custom.css"]
+cname="dlc.name"
+
+[build]
+build-dir = "public"
 
 [preprocessor.djot]
