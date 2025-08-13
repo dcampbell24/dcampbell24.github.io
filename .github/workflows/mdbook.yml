@@ -23,24 +23,27 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: |
-          actions/checkout@v4
-          actions/setup-node@v4
-      - name: Install mdBook
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+
+      - name: Install mdbook, mdbook-djot, and sscli
         run: |
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
           rustup update
           cargo install mdbook
           cargo install mdbook-djot
           npm install -g static-sitemap-cli
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
       - name: Build with mdBook
         run: |
           mdbook build
           sscli -b https://dlc.name -r ./book/
           touch ./book/robots.txt
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
