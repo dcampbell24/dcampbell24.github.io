@@ -1,6 +1,6 @@
 [book]
 authors = ["David Lawrence Campbell"]
-description = "My very own personal website."
+description = "{{description}}"
 language = "en"
 multilingual = false
 src = "src"

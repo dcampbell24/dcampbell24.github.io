@@ -43,6 +43,10 @@ jobs:
           mdbook build
           sscli -b https://dlc.name -r ./book/
           touch ./book/robots.txt
+          cd meta
+          cargo build
+          cd ..
+          ./meta/target/debug/meta
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
