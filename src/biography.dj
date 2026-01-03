@@ -39,15 +39,17 @@ information about these projects see [projects][14].
 [11]: https://github.com/rhinstaller/pyparted
 [12]: http://www.rust-lang.org/
 [13]: http://julialang.org/
-[14]: https://dlc.name/projects.html
 
 More recently, he has been contributing to the user applications in
-[Redox OS][15] and writing a [Go library][16]. Applications include the Redox
-[shell ion][17] and the [baduk game][18].
+[Redox OS][15], writing [financial tracking][16] software, and writing
+[Hnefatafl][17] AI, client, engine, and server{~[1][18]~}. For more information
+about these projects see [projects][19].
 
-[15]: https://www.redox-os.org/
-[16]: https://crates.io/crates/libgo
-[17]: https://gitlab.redox-os.org/redox-os/ion/-/commits/master?search=dcampbell24
-[18]: https://gitlab.redox-os.org/redox-os/games/-/commits/master/src/baduk/main.rs
+[14]: https://www.redox-os.org/
+[15]: https://dlc.name/projects.html
+[16]: https://github.com/dcampbell24/financial-accounts
+[17]: https://hnefatafl.org/
+[18]: https://github.com/dcampbell24/hnefatafl
+[19]: https://dlc.name/projects.html
 
  `<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://dlc.name">DLC's Website</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://dlc.name">David Lawrence Campbell</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>`{=html}
