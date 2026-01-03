@@ -2,10 +2,23 @@
 
 ### Hnefatafl [1][1] [2][2]
 
+This is David's current hobby. He built AI, an engine, a client, and a server
+for the game of Copenhagen Hnefatafl. Most of his current efforts are on the
+client and server. It supports ranking players, timed and un-timed games,
+11x11 and 13x13 sized boards, sound, and a bunch of other features. The client
+is built using the iced framework and has been packaged for Windows, Linux,
+Android, and Redox. It also runs on MacOS and theoretically any platform
+supported by iced and Rust.
+
 [1]: https://hnefatfl.org
 [2]: https://github.com/dcampbell24/hnefatafl
 
 ### Financial Accounts [3][3]
+
+We all have finances and they are often in a bunch of different systems. Why
+not build a tool to track everything? Well that's exactly what David Did. This
+tool tracks and gets updates from cypto-currencies, metals, Investor 360 and
+custom financial institutions.
 
 [3]: https://github.com/dcampbell24/financial-accounts
 
