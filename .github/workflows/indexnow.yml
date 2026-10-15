@@ -15,6 +15,6 @@ jobs:
       - name: Submit to IndexNow
         uses: bojieyang/indexnow-action@v3
         with:
-          sitemap-location: 'https://dlc.name'
+          sitemap-location: 'https://dlc.name/sitemap.xml'
           key: ${{ secrets.INDEXNOW_KEY }}
           endpoint: 'www.bing.com'
