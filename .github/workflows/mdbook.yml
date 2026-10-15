@@ -43,6 +43,7 @@ jobs:
           mdbook build
           sscli -b https://dlc.name -r ./book/
           touch ./book/robots.txt
+          echo "${{ secrets.INDEXNOW_KEY }}" > ./book/${{ secrets.INDEXNOW_KEY }}.txt
           cd meta
           cargo build
           cd ..

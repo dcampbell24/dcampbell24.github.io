@@ -12,9 +12,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Verification Key File
-        run: echo "${{ secrets.INDEXNOW_KEY }}" > ./public/${{ secrets.INDEXNOW_KEY }}.txt
-
       - name: Submit to IndexNow
         uses: bojieyang/indexnow-action@v3
         with:
