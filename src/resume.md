@@ -1,6 +1,6 @@
-*Email*: [squeezing_cursor880*4*@*example.*simplelogin.com]{.email}\
-*Github*:  <https://github.com/dcampbell24/>\
-*Codeberg*: <https://codeberg.org/dcampbell>
+**Email**: squeezing_cursor880 "at" simplelogin.com  
+**Github**:  <https://github.com/dcampbell24/>  
+**Codeberg**: <https://codeberg.org/dcampbell>
 
 ## Objective
 
@@ -9,39 +9,27 @@ Do so acting as a software engineer, writer, organizer, and leader.
 
 ## Computer Skills
 
-*Used Professionally*: Bash, fish, JavaScript, PHP, Python\
-*Learned Independently*: C, Clojure, Fortran, Julia, LISP, OCaml, Rust\
-*Software*: Apache, ArcGIS, Discourse, Git, LaTeX, MySQL, PostgreSQL, Visual Studio Code\
-*Operating Systems*: Windows, OSX, Linux: Arch, Debian, Fedora
+**Used Professionally**: Bash, fish, JavaScript, PHP, Python\
+**Learned Independently**: C, Clojure, Fortran, Julia, LISP, OCaml, Rust\
+**Software**: Apache, ArcGIS, Discourse, Git, LaTeX, MySQL, PostgreSQL, Visual Studio Code\
+**Operating Systems**: Windows, OSX, Linux: Arch, Debian, Fedora
 
 ## Experience
 
-{style="text-align: left"}
-:::
-*Business Process Developer* -- Stone Coast Fund Services, Portland, ME
-[Nov 2017-Dec 2021]{style="float: right"}
-:::
+**Business Process Developer** -- Stone Coast Fund Services, Portland, ME -- Nov 2017-Dec 2021
 
 * Translated client requirements into functional application features
 * Created prototypes of applications
 * Used graphical software in application creation
 * Performed testing of applications after completing them
 
-{style="text-align: left"}
-:::
-*Software Engineer* -- CashStar Inc., Portland, ME
-[May 2015-Jan 2017]{style="float: right"}
-:::
+**Software Engineer** -- CashStar Inc., Portland, ME -- May 2015-Jan 2017
 
 * Learned company needs and icreased revenue by setting up customers with many company products
 * Reduced setup times and offloaded engineer work by creating GUIs and configuration endpoints
 * Wrote system documentation to reduce training time for new hires
 
-{style="text-align: left"}
-:::
-*Developer* -- Photoshelter Inc., New York, NY
-[Jan 2013-May 2014]{style="float: right"}
-:::
+**Developer** -- Photoshelter Inc., New York, NY -- Jan 2013-May 2014
 
 * Improved clients' SEO by fixing longstanding sitemap generation and submission issues
 * Uncovered several bugs and improved site reliability with HHVM static analysis
@@ -50,31 +38,19 @@ Do so acting as a software engineer, writer, organizer, and leader.
 * Extended and improved handling of image meta-data for better page displays
 * Improved seller experience with Stripe Connect integration
 
-{style="text-align: left"}
-:::
-*Student* -- Recurse Center, New York, NY
-[Summer 2012]{style="float: right"}
-:::
+**Student** -- Recurse Center, New York, NY -- Summer 2012
 
 * [Contributed benchmarks, bug reports, and documentation to Julia](https://github.com/JuliaLang/julia/pulls?q=is%3Apr+author%3Adcampbell24)
 * Wrote [cube puzzle solver](https://github.com/dcampbell24/cubes) (3D space filling) and visualization tools
 * Created Python bindings for pysvmlight machine learning library
 
-{style="text-align: left"}
-:::
-*Volunteer* -- Poverty's Demise, Brooklyn, N
-[July-Nov. 2009]{style="float: right"}
-:::
+**Volunteer** -- Poverty's Demise, Brooklyn, NY -- July-Nov. 2009
 
 * Setup and maintained hardware, webserver (LAMP), Drupal installations
 * Copyedited business reports, public correspondance, technical documentation
 * Wrote project development plan, press material, internal documentation, reports
 
-{style="text-align: left"}
-:::
-*Indepedent Projects* -- Various Locations
-[2009-Present]{style="float: right"}
-:::
+**Indepedent Projects** -- Various Locations -- 2009-Present
 
 * Created [Copenhagen Hnefatafl](https://github.com/dcampbell24/hnefatafl) software (2025-2026)
 * Created [Financial accounts](https://github.com/dcampbell24/financial-accounts) tracking software (2024)
@@ -93,19 +69,11 @@ Do so acting as a software engineer, writer, organizer, and leader.
 
 ## Education
 
-{style="text-align: left"}
-:::
-*Graduate Studies* -- Computer Science, GPA: 3.41, 30 credits
-[Spring 2010-Spring 2013]{style="float: right"}
-:::
+**Graduate Studies** -- Computer Science, GPA: 3.41, 30 credits -- Spring 2010-Spring 2013
 
 CUNY Brooklyn College, Brooklyn, NY
 
-{style="text-align: left"}
-:::
-*Bachelor of Arts* -- Liberal Studies, GPA: 3.15
-{% 23 %}[May 2009]{style="float: right"}
-:::
+**Bachelor of Arts** -- Liberal Studies, GPA: 3.15 -- 23 May 2009
 
-University of New Haven, West Haven, CT\
+University of New Haven, West Haven, CT  
 John Collinson Philosophy Award recipient

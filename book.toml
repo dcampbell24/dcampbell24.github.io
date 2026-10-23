@@ -10,7 +10,9 @@ git-repository-url = "https://github.com/dcampbell24/dcampbell24.github.io"
 additional-css = ["custom.css"]
 cname="dlc.name"
 
+[output.sitemap]
+base-url = "https://dlc.name"
+# base-url = "http://localhost:3000"
+
 [build]
 build-dir = "book"
-
-[preprocessor.djot]

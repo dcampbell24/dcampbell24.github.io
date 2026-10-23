@@ -31,8 +31,7 @@ jobs:
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
           rustup update
           cargo install mdbook
-          cargo install mdbook-djot
-          npm install -g static-sitemap-cli
+          cargo install mdbook-sitemap
 
       - name: Setup Pages
         id: pages
@@ -41,13 +40,8 @@ jobs:
       - name: Build with mdBook
         run: |
           mdbook build
-          sscli -b https://dlc.name -r ./book/
           touch ./book/robots.txt
           echo "${{ secrets.INDEXNOW_KEY }}" > ./book/${{ secrets.INDEXNOW_KEY }}.txt
-          cd meta
-          cargo build
-          cd ..
-          ./meta/target/debug/meta
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5

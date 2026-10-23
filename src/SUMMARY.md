@@ -1,6 +1,6 @@
 # Summary
 
-- [Notary Public](./README.dj)
-- [Software Engineering Resume](./resume.dj)
-- [Biography](./biography.dj)
+- [Notary Public](./README.md)
+- [Software Engineering Resume](./resume.md)
+- [Biography](./biography.md)
 - [Projects](./projects.md)

@@ -42,12 +42,12 @@ information about these projects see [projects][14].
 
 More recently, he has been contributing to the user applications in
 [Redox OS][15], writing [financial tracking][16] software, and writing
-[Hnefatafl][17] AI, client, engine, and server{~[1][18]~}. For more information
+[Hnefatafl][17] [AI, client, engine, and server][18]. For more information
 about these projects see [projects][19].
 
 [14]: https://www.redox-os.org/
 [15]: https://dlc.name/projects.html
 [16]: https://github.com/dcampbell24/financial-accounts
 [17]: https://hnefatafl.org/
-[18]: https://github.com/dcampbell24/hnefatafl
+[18]: https://codeberg.org/dcampbell/hnefatafl
 [19]: https://dlc.name/projects.html
