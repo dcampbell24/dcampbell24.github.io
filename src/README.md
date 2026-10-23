@@ -24,3 +24,6 @@ LEGAL ADVICE.
 ![DLC Headshot][1]
 
 [1]: david.jpg
+
+  </div>
+</div>
