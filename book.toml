@@ -1,6 +1,6 @@
 [book]
 authors = ["David Lawrence Campbell"]
-description = "This is a website about David Lawrence Campbell. It includes information about his notary public commission as well as his qualifications as a software engineer."
+description = "This is a website about David Lawrence Campbell. It includes his software engineering resume as well as projects he has worked on and his background."
 language = "en"
 src = "src"
 title = "David Lawrence Campbell"
