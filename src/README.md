@@ -1,6 +1,18 @@
-**Email**: squeezing_cursor880 "at" simplelogin.com  
+
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+
+![DLC Headshot](david.jpg)
+
+  </div>
+  <div style="flex: 1;">
+
+**Email**:&nbsp;squeezing_cursor880&nbsp;"at"&nbsp;simplelogin.com  
 **Github**:  <https://github.com/dcampbell24/>  
-**Codeberg**: <https://codeberg.org/dcampbell>
+**Codeberg**: <https://codeberg.org/dcampbell>  
+
+  </div>
+</div>
 
 ## Objective
 
