@@ -3,10 +3,11 @@
 
 ## Notary Public
 
+**Company**: NOTARY PUBLIC SERVICES LLC  
 **Notary Name**: David Lawrence Campbell  
 **Commission Expiration Date**: 2033-09-21  
 **Location**: South Portland, ME, USA  
-**Email**: notary_public "at" tutamail.com
+**Email**: notary_public "at" tutamail.com  
 
 David is a notary public serving all of Maine. You must come to his home in
 South Portland to get your documents notarized. Send him an email for his
