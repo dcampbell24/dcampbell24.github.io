@@ -1,30 +1,79 @@
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
+**Email**: squeezing_cursor880 "at" simplelogin.com  
+**Github**:  <https://github.com/dcampbell24/>  
+**Codeberg**: <https://codeberg.org/dcampbell>
 
-## Notary Public
+## Objective
 
-**Company**: NOTARY PUBLIC SERVICES LLC  
-**Notary Name**: David Lawrence Campbell  
-**Commission Expiration Date**: 2033-09-21  
-**Location**: South Portland, ME, USA  
-**Email**: notary_public "at" tutamail.com  
+Research and build systems that improve quality of life, create community, and sustain themselves.
+Do so acting as a software engineer, writer, organizer, and leader.
 
-David is a notary public serving all of Maine. You must come to his home in
-South Portland to get your documents notarized. Send him an email for his
-address.
+## Computer Skills
 
-David charges 15 USD for his in person services.
+**Used Professionally**: Bash, fish, JavaScript, PHP, Python\
+**Learned Independently**: C, Clojure, Fortran, Julia, LISP, OCaml, Rust\
+**Software**: Apache, ArcGIS, Discourse, Git, LaTeX, MySQL, PostgreSQL, Visual Studio Code\
+**Operating Systems**: Windows, OSX, Linux: Arch, Debian, Fedora
 
-DAVID IS NOT AN ATTORNEY LICENSED TO PRACTICE LAW IN MAINE AND MAY NOT GIVE
-LEGAL ADVICE ABOUT IMMIGRATION OR ANY OTHER LEGAL MATTER OR ACCEPT FEES FOR
-LEGAL ADVICE.
+## Experience
 
-  </div>
-  <div style="flex: 1;">
+**Business Process Developer** -- Stone Coast Fund Services, Portland, ME -- Nov 2017-Dec 2021
 
-![DLC Headshot][1]
+* Translated client requirements into functional application features
+* Created prototypes of applications
+* Used graphical software in application creation
+* Performed testing of applications after completing them
 
-[1]: david.jpg
+**Software Engineer** -- CashStar Inc., Portland, ME -- May 2015-Jan 2017
 
-  </div>
-</div>
+* Learned company needs and icreased revenue by setting up customers with many company products
+* Reduced setup times and offloaded engineer work by creating GUIs and configuration endpoints
+* Wrote system documentation to reduce training time for new hires
+
+**Developer** -- Photoshelter Inc., New York, NY -- Jan 2013-May 2014
+
+* Improved clients' SEO by fixing longstanding sitemap generation and submission issues
+* Uncovered several bugs and improved site reliability with HHVM static analysis
+* Increasded scalability, reduced time and latency of image exports
+* Added real time image export reporting to reduce issue resolution time
+* Extended and improved handling of image meta-data for better page displays
+* Improved seller experience with Stripe Connect integration
+
+**Student** -- Recurse Center, New York, NY -- Summer 2012
+
+* [Contributed benchmarks, bug reports, and documentation to Julia](https://github.com/JuliaLang/julia/pulls?q=is%3Apr+author%3Adcampbell24)
+* Wrote [cube puzzle solver](https://github.com/dcampbell24/cubes) (3D space filling) and visualization tools
+* Created Python bindings for pysvmlight machine learning library
+
+**Volunteer** -- Poverty's Demise, Brooklyn, NY -- July-Nov. 2009
+
+* Setup and maintained hardware, webserver (LAMP), Drupal installations
+* Copyedited business reports, public correspondance, technical documentation
+* Wrote project development plan, press material, internal documentation, reports
+
+**Indepedent Projects** -- Various Locations -- 2009-Present
+
+* Created [Copenhagen Hnefatafl](https://github.com/dcampbell24/hnefatafl) software (2025-2026)
+* Created [Financial accounts](https://github.com/dcampbell24/financial-accounts) tracking software (2024)
+* Created [weather tracking software](https://github.com/dcampbell24/prometheus-sensors) with Prometheus (2024)
+* Added shell history features to ion the Redox OS shell
+* Wrote [TUI][2] [GO][3] game for Redox Games
+* Wrote Hearts server and GUI client, contributed to the [Conrod GUI library][5]
+* Contributed to Arch Linux, pkgtools (gem2arch), namcap, many PKGBUILDs
+* Wrote a [library](https://github.com/dcampbell24/poker) and agents for playing Texas Hold'em
+* Wrote [cparted](https://github.com/dcampbell24/cparted) and contributed to [PyParted][4], disk partioning in Anaconda from RedHat
+
+[2]: https://gitlab.redox-os.org/redox-os/games/-/commits/master/src/baduk/main.rs
+[3]: https://github.com/dcampbell24/libgo
+[4]: https://github.com/rhinstaller/pyparted
+[5]: https://github.com/PistonDevelopers/conrod/commits/master/?author=dcampbell24
+
+## Education
+
+**Graduate Studies** -- Computer Science, GPA: 3.41, 30 credits -- Spring 2010-Spring 2013
+
+CUNY Brooklyn College, Brooklyn, NY
+
+**Bachelor of Arts** -- Liberal Studies, GPA: 3.15 -- 23 May 2009
+
+University of New Haven, West Haven, CT  
+John Collinson Philosophy Award recipient
