@@ -40,7 +40,6 @@ jobs:
       - name: Build with mdBook
         run: |
           mdbook build
-          touch ./book/html/robots.txt
           echo "${{ secrets.INDEXNOW_KEY }}" > ./book/html/${{ secrets.INDEXNOW_KEY }}.txt
 
       - name: Upload artifact
